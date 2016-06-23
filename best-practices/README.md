@@ -308,6 +308,11 @@ Haskell
 * Avoid partial functions (`head`, `read`, etc).
 * Compile code with `-Wall -Werror`.
 
+Elixir
+------
+
+* Avoid macros.
+
 Ember
 -----
 
