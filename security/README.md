@@ -82,6 +82,11 @@ The following guidelines apply to how we handle security incidents.
 
 ### Reporting
 
+Include security alerts in Continuous Integration builds
+with tools such as [Bundler Audit].
+
+[Bundler Audit]: https://robots.thoughtbot.com/handling-security-issues-in-open-source-projects#one-thing-end-users-can-do
+
 When someone finds a possible security issue in our software,
 we encourage them to report it to our <security@thoughtbot.com> email address.
 
